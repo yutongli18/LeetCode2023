@@ -16,6 +16,7 @@ if __name__ == '__main__':
     plt.legend(lines, labels, loc="upper left", bbox_to_anchor=(1.05, 1.0))
     plt.tight_layout()
     plt.show()
-    """
     nums = [1, 2, 3]
     print(nums[-1])
+    """
+    dict = {"Jan": 1, "Feb": 2}

@@ -2,64 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60c3b6ac-e9e0-4459-927e-a5ee20fe1f9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LeeCode2023.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.4.9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.5.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.5.11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.5.12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.5.13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.5.14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.5.15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.5.16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.5.17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.5.19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.5.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.5.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.5.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.5.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.5.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2023.5.9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case_recommend.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/case_recommend.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/times.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/timesbd.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/timesbi.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/timesi.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyword_extraction.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyword_extraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/root_cause_analysis.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/root_cause_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2023.5.20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/check.py" beforeDir="false" afterPath="$PROJECT_DIR$/check.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +50,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Python.2023.5.19">
     <configuration name="2023.5.14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -252,8 +197,18 @@
       <workItem from="1684285191457" duration="949000" />
       <workItem from="1684398551234" duration="2013000" />
       <workItem from="1684400590761" duration="1614000" />
-      <workItem from="1684458761284" duration="2680000" />
+      <workItem from="1684458761284" duration="2750000" />
+      <workItem from="1684480292774" duration="67000" />
+      <workItem from="1684543928890" duration="1094000" />
     </task>
+    <task id="LOCAL-00001" summary="2023.5.19代码提交">
+      <created>1684461472341</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684461472341</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,10 +261,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Custom_Plugin_Repositories/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684400564060" />
-    <state x="566" y="112" key="CommitChangelistDialog2" timestamp="1684461442224">
+    <state x="566" y="112" key="CommitChangelistDialog2" timestamp="1684461471065">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="566" y="112" key="CommitChangelistDialog2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684461442224" />
+    <state x="566" y="112" key="CommitChangelistDialog2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684461471065" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1684459337518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -318,40 +273,40 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="816" y="410" key="Github.ShareDialog/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684458912733" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1684461447483">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1684461530282">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1684286145545" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684461447483" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1684461447482">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684461530282" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1684461530282">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1684286145545" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684461447482" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1684461447482">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684461530282" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1684461530282">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1684286145545" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684461447482" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1684461447482">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684461530282" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1684461530282">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1684286145545" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684461447482" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1684459359220">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684461530282" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1684544736703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1683442730611" />
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684459359220" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1684458924965">
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684544736703" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1684461494267">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684458924965" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1684458764113">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684461494267" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1684543940269">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1684285193639" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684458764113" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684543940269" />
     <state x="744" y="311" key="git4idea.merge.GitPullDialog" timestamp="1684401638597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
