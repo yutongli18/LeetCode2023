@@ -2,6 +2,7 @@ import matplotlib as mpt
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+import math
 
 
 if __name__ == '__main__':
@@ -19,4 +20,5 @@ if __name__ == '__main__':
     nums = [1, 2, 3]
     print(nums[-1])
     """
-    dict = {"Jan": 1, "Feb": 2}
+    """dict = {"Jan": 1, "Feb": 2}"""
+    print(math.sqrt(4))
