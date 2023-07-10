@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60c3b6ac-e9e0-4459-927e-a5ee20fe1f9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2023.7.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2023.7.10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -251,7 +251,9 @@
       <workItem from="1688519557690" duration="2442000" />
       <workItem from="1688606082372" duration="3469000" />
       <workItem from="1688691311547" duration="1807000" />
-      <workItem from="1688864483382" duration="2741000" />
+      <workItem from="1688864483382" duration="2813000" />
+      <workItem from="1688873504598" duration="7000" />
+      <workItem from="1688951562086" duration="1967000" />
     </task>
     <task id="LOCAL-00001" summary="2023.5.19代码提交">
       <created>1684461472341</created>
@@ -547,7 +549,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688693268572</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="2023.7.9&#10;707.设计链表">
+      <created>1688867240962</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1688867240962</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -592,7 +601,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023.6.7&#10;2611.老鼠和奶酪" />
     <MESSAGE value="2023.6.8&#10;31.下一个排列" />
     <MESSAGE value="2023.6.9&#10;33.搜索旋转排序数组" />
     <MESSAGE value="2023.6.10&#10;1170.比较字符串最小字母出现频次" />
@@ -617,19 +625,20 @@
     <MESSAGE value="2023.7.5&#10;904. 水果成篮" />
     <MESSAGE value="2023.7.6&#10;59.螺旋矩阵II" />
     <MESSAGE value="2023.7.7&#10;203.移除链表元素" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.7.7&#10;203.移除链表元素" />
+    <MESSAGE value="2023.7.9&#10;707.设计链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.7.9&#10;707.设计链表" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Custom_Plugin_Repositories" timestamp="1684400564060">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Custom_Plugin_Repositories/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684400564060" />
-    <state x="572" y="151" key="CommitChangelistDialog2" timestamp="1688693267831">
+    <state x="572" y="151" key="CommitChangelistDialog2" timestamp="1688867240307">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="572" y="178" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1687657075806" />
     <state x="566" y="112" key="CommitChangelistDialog2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684746481054" />
-    <state x="572" y="151" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1688693267831" />
+    <state x="572" y="151" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1688867240307" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1688458109686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -670,18 +679,18 @@
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1687657261235" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684544736703" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1688458030389" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1688693295719">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1688867270258">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1687657269200" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684746494176" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1688693295719" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1688691566891">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1688867270258" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1688873505398">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1687741562240" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684746411017" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1688691566891" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1688873505398" />
     <state x="744" y="311" key="git4idea.merge.GitPullDialog" timestamp="1684401638597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
