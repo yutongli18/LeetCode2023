@@ -21,4 +21,6 @@ if __name__ == '__main__':
     print(nums[-1])
     """
     """dict = {"Jan": 1, "Feb": 2}"""
-    print(math.sqrt(4))
+    # print(math.sqrt(4))
+    age = 18
+    print(f"我今年{age}岁了")
