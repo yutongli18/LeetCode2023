@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60c3b6ac-e9e0-4459-927e-a5ee20fe1f9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2023.7.18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2023.7.19-454.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.2023.7.18">
+  <component name="RunManager" selected="Python.2023.7.19-454">
     <configuration name="2023.7.16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeeCode2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2023.7.6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2023.7.19-454" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeeCode2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +132,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023.7.6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023.7.19-454.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2023.7.19-454" />
         <item itemvalue="Python.2023.7.18" />
         <item itemvalue="Python.2023.7.17" />
         <item itemvalue="Python.2023.7.16" />
         <item itemvalue="Python.check" />
-        <item itemvalue="Python.2023.7.6" />
       </list>
     </recent_temporary>
   </component>
@@ -267,14 +267,8 @@
       <workItem from="1689469519805" duration="746000" />
       <workItem from="1689470302945" duration="217000" />
       <workItem from="1689555883390" duration="1503000" />
-      <workItem from="1689641860354" duration="797000" />
-    </task>
-    <task id="LOCAL-00003" summary="2023.5.21代码提交">
-      <created>1684634454087</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1684634454087</updated>
+      <workItem from="1689641860354" duration="876000" />
+      <workItem from="1689728838825" duration="737000" />
     </task>
     <task id="LOCAL-00004" summary="2023.5.23代码提交">
       <created>1684746431636</created>
@@ -612,7 +606,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689556756844</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="2023.7.18&#10;1. 两数之和">
+      <created>1689642672242</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1689642672243</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -657,7 +658,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023.6.16&#10;38.外观数列" />
     <MESSAGE value="2023.6.17&#10;2481.分割圆的最少切割次数" />
     <MESSAGE value="2023.6.18&#10;1254.统计封闭岛屿的数目" />
     <MESSAGE value="2023.6.19&#10;1262.可被三整除的最大和" />
@@ -682,19 +682,20 @@
     <MESSAGE value="2023.7.15&#10;242.有效的字母异位词" />
     <MESSAGE value="2023.7.16&#10;349. 两个数组的交集" />
     <MESSAGE value="2023.7.17&#10;202. 快乐数" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.7.17&#10;202. 快乐数" />
+    <MESSAGE value="2023.7.18&#10;1. 两数之和" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.7.18&#10;1. 两数之和" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Custom_Plugin_Repositories" timestamp="1684400564060">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Custom_Plugin_Repositories/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684400564060" />
-    <state x="572" y="151" key="CommitChangelistDialog2" timestamp="1689556756135">
+    <state x="572" y="151" key="CommitChangelistDialog2" timestamp="1689642671556">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="572" y="178" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1687657075806" />
     <state x="566" y="112" key="CommitChangelistDialog2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684746481054" />
-    <state x="572" y="151" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689556756135" />
+    <state x="572" y="151" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689642671556" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1689039174425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -705,42 +706,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="816" y="410" key="Github.ShareDialog/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684458912733" />
-    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1689642649786">
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1689729463696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1687742919789" />
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1689729463696" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684634496350" />
-    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689642649786" />
-    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1689642649786">
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689642736122" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1689729463696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1687742919788" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1689729463696" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684634496350" />
-    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689642649786" />
-    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1689642649785">
+    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689642736122" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1689729463696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1687742919788" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1689729463696" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684634496350" />
-    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689642649785" />
-    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1689642649786">
+    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689642736122" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1689729463696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1687742919788" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1689729463696" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684634496350" />
-    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689642649786" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689642736122" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1689039191663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1687657261235" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684544736703" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689039191663" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1689556783352">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1689642698321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1687657269200" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684746494176" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689556783352" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689642698321" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1689470303260">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -798,6 +799,7 @@
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_6_9.coverage" NAME="2023.6.9 Coverage Results" MODIFIED="1686275144071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeeCode2023$2023_5_7.coverage" NAME="2023.5.7 Coverage Results" MODIFIED="1683442736067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_5_31.coverage" NAME="2023.5.31 Coverage Results" MODIFIED="1685497741418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode2023$2023_7_19_454.coverage" NAME="2023.7.19-454 Coverage Results" MODIFIED="1689729405203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_5_28.coverage" NAME="2023.5.28 Coverage Results" MODIFIED="1685238597771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_6_25.coverage" NAME="2023.6.25 Coverage Results" MODIFIED="1687656946548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_6_28.coverage" NAME="2023.6.28 Coverage Results" MODIFIED="1687918299307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
