@@ -22,5 +22,7 @@ if __name__ == '__main__':
     """
     """dict = {"Jan": 1, "Feb": 2}"""
     # print(math.sqrt(4))
-    age = 18
-    print(f"我今年{age}岁了")
+    """age = 18
+    print(f"我今年{age}岁了")"""
+    new_dict = {1: "new", 2: "check"}
+    print(new_dict[1])
