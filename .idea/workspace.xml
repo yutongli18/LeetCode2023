@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60c3b6ac-e9e0-4459-927e-a5ee20fe1f9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2023.8.1-Offer5.py" afterDir="false" />
+    <list default="true" id="60c3b6ac-e9e0-4459-927e-a5ee20fe1f9e" name="Default Changelist" comment="2023.8.3&#10;206.反转链表">
+      <change afterPath="$PROJECT_DIR$/2023.8.28.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,73 +52,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Python.2023.8.1-Offer5">
-    <configuration name="2023.7.28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeeCode2023" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023.7.28.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2023.7.29-459" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeeCode2023" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023.7.29-459.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2023.7.30-27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeeCode2023" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023.7.30-27.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.2023.8.28">
     <configuration name="2023.7.31-344" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeeCode2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,13 +97,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2023.8.2-151" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeeCode2023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023.8.2-151.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2023.8.28" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeeCode2023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023.8.28.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2023.8.9-20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeeCode2023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023.8.9-20.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2023.8.28" />
+        <item itemvalue="Python.2023.8.9-20" />
+        <item itemvalue="Python.2023.8.2-151" />
         <item itemvalue="Python.2023.8.1-Offer5" />
         <item itemvalue="Python.2023.7.31-344" />
-        <item itemvalue="Python.2023.7.30-27" />
-        <item itemvalue="Python.2023.7.29-459" />
-        <item itemvalue="Python.2023.7.28" />
       </list>
     </recent_temporary>
   </component>
@@ -290,63 +290,23 @@
       <workItem from="1690679411312" duration="2013000" />
       <workItem from="1690681703887" duration="24000" />
       <workItem from="1690765581227" duration="426000" />
-      <workItem from="1690852035676" duration="661000" />
-    </task>
-    <task id="LOCAL-00017" summary="2023.6.6&#10;相等行列对">
-      <created>1686014694987</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1686014694987</updated>
-    </task>
-    <task id="LOCAL-00018" summary="2023.6.7&#10;2611.老鼠和奶酪">
-      <created>1686101746798</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1686101746798</updated>
-    </task>
-    <task id="LOCAL-00019" summary="2023.6.8&#10;31.下一个排列">
-      <created>1686209924441</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1686209924441</updated>
-    </task>
-    <task id="LOCAL-00020" summary="2023.6.9&#10;33.搜索旋转排序数组">
-      <created>1686275374813</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1686275374813</updated>
-    </task>
-    <task id="LOCAL-00021" summary="2023.6.10&#10;1170.比较字符串最小字母出现频次">
-      <created>1686360780606</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1686360780607</updated>
-    </task>
-    <task id="LOCAL-00022" summary="2023.6.11&#10;1171.从链表中删去总和值为零的连续节点">
-      <created>1686450511684</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1686450511684</updated>
-    </task>
-    <task id="LOCAL-00023" summary="2023.6.12&#10;1171.有效的数独">
-      <created>1686533210001</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1686533210002</updated>
-    </task>
-    <task id="LOCAL-00024" summary="2023.6.13&#10;2475.数组中不等三元组的数目">
-      <created>1686619827562</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1686619827562</updated>
+      <workItem from="1690852035676" duration="940000" />
+      <workItem from="1690938364863" duration="1316000" />
+      <workItem from="1690941668105" duration="16000" />
+      <workItem from="1691024599510" duration="1240000" />
+      <workItem from="1691026768438" duration="197000" />
+      <workItem from="1691110885882" duration="1391000" />
+      <workItem from="1691112381006" duration="89000" />
+      <workItem from="1691197925881" duration="1353000" />
+      <workItem from="1691199546509" duration="601000" />
+      <workItem from="1691284216526" duration="875000" />
+      <workItem from="1691303530477" duration="61000" />
+      <workItem from="1691370658780" duration="2095000" />
+      <workItem from="1691393080287" duration="10000" />
+      <workItem from="1691476541228" duration="1032000" />
+      <workItem from="1691545311616" duration="1209000" />
+      <workItem from="1691546787021" duration="1197000" />
+      <workItem from="1693183574320" duration="1087000" />
     </task>
     <task id="LOCAL-00025" summary="2023.6.14&#10;1375.二进制字符串前缀一致的次数">
       <created>1686706566230</created>
@@ -635,7 +595,63 @@
       <option name="project" value="LOCAL" />
       <updated>1690765971629</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="2023.8.1&#10;剑指 Offer 05. 替换空格">
+      <created>1690852745814</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1690852745815</updated>
+    </task>
+    <task id="LOCAL-00067" summary="2023.8.2&#10;151.反转字符串中的单词">
+      <created>1690939469794</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1690939469794</updated>
+    </task>
+    <task id="LOCAL-00068" summary="2023.8.3&#10;206.反转链表">
+      <created>1691025707461</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1691025707461</updated>
+    </task>
+    <task id="LOCAL-00069" summary="2023.8.4&#10;19.删除链表的倒数第 N 个结点">
+      <created>1691112097068</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1691112097069</updated>
+    </task>
+    <task id="LOCAL-00070" summary="2023.8.5&#10;面试题02.07.链表相交">
+      <created>1691198807060</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1691198807060</updated>
+    </task>
+    <task id="LOCAL-00071" summary="2023.8.6&#10;环形链表II&#10;2023.8.7&#10;232.用栈实现队列">
+      <created>1691372446565</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1691372446566</updated>
+    </task>
+    <task id="LOCAL-00072" summary="2023.8.8&#10;225.用队列实现栈">
+      <created>1691477303846</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1691477303846</updated>
+    </task>
+    <task id="LOCAL-00073" summary="2023.8.9&#10;20.有效的括号">
+      <created>1691546434833</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1691546434833</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -680,14 +696,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2023.7.6&#10;59.螺旋矩阵II" />
-    <MESSAGE value="2023.7.7&#10;203.移除链表元素" />
-    <MESSAGE value="2023.7.9&#10;707.设计链表" />
-    <MESSAGE value="2023.7.10&#10;206.反转链表" />
-    <MESSAGE value="2023.7.11&#10;24.两两交换链表中的节点" />
-    <MESSAGE value="2023.7.12&#10;19.删除链表的倒数第N个结点" />
-    <MESSAGE value="2023.7.13&#10;面试题02.07.链表相交" />
-    <MESSAGE value="2023.7.14&#10;142. 环形列表II" />
     <MESSAGE value="2023.7.15&#10;242.有效的字母异位词" />
     <MESSAGE value="2023.7.16&#10;349. 两个数组的交集" />
     <MESSAGE value="2023.7.17&#10;202. 快乐数" />
@@ -705,51 +713,50 @@
     <MESSAGE value="2023.7.29&#10;459.重复的子字符串" />
     <MESSAGE value="2023.7.30&#10;27.移除元素" />
     <MESSAGE value="2023.7.31&#10;344.反转字符串" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.7.31&#10;344.反转字符串" />
+    <MESSAGE value="2023.8.1&#10;剑指 Offer 05. 替换空格" />
+    <MESSAGE value="2023.8.2&#10;151.反转字符串中的单词" />
+    <MESSAGE value="2023.8.3&#10;206.反转链表" />
+    <MESSAGE value="2023.8.4&#10;19.删除链表的倒数第 N 个结点" />
+    <MESSAGE value="2023.8.5&#10;面试题02.07.链表相交" />
+    <MESSAGE value="2023.8.6&#10;环形链表II&#10;2023.8.7&#10;232.用栈实现队列" />
+    <MESSAGE value="2023.8.8&#10;225.用队列实现栈" />
+    <MESSAGE value="2023.8.9&#10;20.有效的括号" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.8.9&#10;20.有效的括号" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Custom_Plugin_Repositories" timestamp="1684400564060">
+    <state x="572" y="178" key="CommitChangelistDialog2" timestamp="1691546434102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Custom_Plugin_Repositories/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684400564060" />
-    <state x="572" y="178" key="CommitChangelistDialog2" timestamp="1690765970948">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="572" y="178" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1690765970948" />
+    <state x="572" y="178" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1691546434102" />
     <state x="566" y="112" key="CommitChangelistDialog2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684746481054" />
     <state x="572" y="151" key="CommitChangelistDialog2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689642671556" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1689039174425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1685327313936" />
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684459337518" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689039174425" />
-    <state x="816" y="410" key="Github.ShareDialog" timestamp="1684458912733">
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1693184122804">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="816" y="410" key="Github.ShareDialog/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684458912733" />
-    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1690852690719">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1690852690719" />
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1693184122804" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684634496350" />
     <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689642736122" />
-    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1690852690719">
+    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1693184122803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1690852690719" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1693184122803" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684634496350" />
     <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689642736122" />
-    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1690852690719">
+    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1693184122803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1690852690719" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1693184122803" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684634496350" />
     <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689642736122" />
-    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1690852690719">
+    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1693184122803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1690852690719" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1693184122803" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684634496350" />
     <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689642736122" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1689989878406">
@@ -768,43 +775,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1689989878406" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1690334926571">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1693184672829">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1690334926571" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1693184672829" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684544736703" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689039191663" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1690765981928">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1691546441520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1690765981928" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1691546441520" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684746494176" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689642698321" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1690681719545">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1691546787163">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1690681719545" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1691546787163" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684746411017" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689470303260" />
-    <state x="744" y="311" key="git4idea.merge.GitPullDialog" timestamp="1684401638597">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="744" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684401638597" />
     <state x="636" y="366" width="716" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1689039190580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="636" y="366" width="716" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1685322779786" />
-    <state x="636" y="366" width="716" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040/-1920.4.1920.1040@0.0.1920.1040" timestamp="1684459358204" />
     <state x="636" y="366" width="716" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689039190580" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1689212489833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1683768743067" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1689212489833" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_5_26.coverage" NAME="2023.5.26 Coverage Results" MODIFIED="1685066885804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_5_29.coverage" NAME="2023.5.29 Coverage Results" MODIFIED="1685322891416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode2023$2023_8_9_20.coverage" NAME="2023.8.9-20 Coverage Results" MODIFIED="1691545814809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_6_29.coverage" NAME="2023.6.29 Coverage Results" MODIFIED="1688001007902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_7_23_344.coverage" NAME="2023.7.23-344 Coverage Results" MODIFIED="1690074762431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_6_20.coverage" NAME="2023.6.20 Coverage Results" MODIFIED="1687224877676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -854,6 +856,8 @@
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_7_20_383.coverage" NAME="2023.7.20-383 Coverage Results" MODIFIED="1689815052245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_7_4.coverage" NAME="2023.7.4 Coverage Results" MODIFIED="1688453887422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_7_1.coverage" NAME="2023.7.1 Coverage Results" MODIFIED="1688175391617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode2023$2023_8_28.coverage" NAME="2023.8.28 Coverage Results" MODIFIED="1693183967912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode2023$2023_8_2_151.coverage" NAME="2023.8.2-151 Coverage Results" MODIFIED="1690939141614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_5_16.coverage" NAME="2023.5.16 Coverage Results" MODIFIED="1684199115864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_6_13.coverage" NAME="2023.6.13 Coverage Results" MODIFIED="1686619720466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_8_1_Offer5.coverage" NAME="2023.8.1-Offer5 Coverage Results" MODIFIED="1690852667920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
