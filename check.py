@@ -26,4 +26,9 @@ if __name__ == '__main__':
     print(f"我今年{age}岁了")"""
     """new_dict = {1: "new", 2: "check"}
     print(new_dict[1])"""
-    print(int("-11"))
+    # print(int("-11"))
+
+    result_list = [1, 2, 3, 4]
+    for i in range(len(result_list)):
+        print(result_list[i])
+        result_list.append(result_list[i])
