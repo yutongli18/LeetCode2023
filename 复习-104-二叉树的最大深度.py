@@ -5,17 +5,11 @@ class TreeNode(object):
         self.right = right
 
 
-def getMaxDepth(node, depth):
-    """
-    其实二叉树最大最小深度的递归方法逻辑是一样的，只是把最大值换成最小值而已。
-    注意对于二叉树的最小深度，不能直接把左子树的 depth 赋值为当前的 depth，必须顺着另一个不为空的子节点去查找。
-    """
-    if node is None:
-        return depth
-    depth += 1
-    left_depth = getMaxDepth(node.left, depth) if node.left is not None else depth
-    right_depth = getMaxDepth(node.right, depth) if node.right is not None else depth
-    return max(left_depth, right_depth)
+def getMaxDepth(node, max_depth):
+    if not node:
+        return max_depth
+    max_depth += 1
+    return max(getMaxDepth(node.left, max_depth), getMaxDepth(node.right, max_depth))
 
 
 class Solution(object):
