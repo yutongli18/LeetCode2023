@@ -1,3 +1,9 @@
+"""
+108. 将有序数组转换为二叉搜索树
+为了构建平衡二叉搜索树，只需要从有序数组的中间节点分割即可。
+"""
+
+
 class TreeNode(object):
     def __init__(self, val=0, left=None, right=None):
         self.val = val
