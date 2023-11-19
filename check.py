@@ -392,6 +392,8 @@ if __name__ == '__main__':
         arr1.remove(arr)
         if arr in arr1:
             print(arr)"""
-    nums = []
+    """nums = []
     nums.insert(0, 20)
-    print(nums)
+    print(nums)"""
+    num = 13
+    print((num >> 2) << 2)
