@@ -2,8 +2,246 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60c3b6ac-e9e0-4459-927e-a5ee20fe1f9e" name="Default Changelist" comment="2023.11.3">
-      <change afterPath="$PROJECT_DIR$/2023.11.24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LeeCode2023.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.22-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.22-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.22-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.27.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.28.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.29-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.29.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.30.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.31.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.10.9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.12-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.12-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.19-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.19-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.19-3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.5-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.11.9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.27.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.28.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.4.9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.28.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.29.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.30.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.31.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.5.9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.27.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.28.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.29.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.30.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.6.9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.19-454.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.20-383.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.21-15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.22-18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.23-344.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.24-541.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.25-offer5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.27-offer58.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.28.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.29-459.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.30-27.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.31-344.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.7.9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.8.1-Offer5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.8.2-151.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.8.28.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.8.29.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.8.3-206.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.8.30.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.8.31.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.8.4-19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.8.5-interview0207.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.8.6-142.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.8.7-232.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.8.8-225.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.8.9-20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.19.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.20.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.21.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.22.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.23.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.24.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.25.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.26.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.27.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023.9.9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_recommend.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_recommend.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/times.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/timesbd.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/timesbi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/timesi.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyword_extraction.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyword_extraction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/root_cause_analysis.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/root_cause_analysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码随想录刷题笔记.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码随想录刷题笔记.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-101-对称二叉树.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-104-二叉树的最大深度.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-111-二叉树的最小深度.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-2909.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-2910.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-2924.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-2934.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-376.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-39.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-45.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-450.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-47.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-501.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-53.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-530-二叉搜索树的最小绝对差.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-55.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-98-验证二叉搜索树.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-LCR086.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-LCR194.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-前K个高频元素.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/复习-逆波兰式求值.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +290,8 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.2023.11.24">
-    <configuration name="2023.11.20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2023.11.25">
+    <configuration name="复习-1005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeeCode2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +304,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023.11.20.py" />
+      <option name="SCRIPT_NAME" value="D:\LeetCode2023\复习-1005.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -75,7 +313,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2023.11.21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="复习-134" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeeCode2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,29 +326,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023.11.21.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2023.11.22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeeCode2023" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023.11.22.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/复习-134.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,13 +379,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2023.11.25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeeCode2023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2023.11.25.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2023.11.25" />
+        <item itemvalue="Python.复习-134" />
+        <item itemvalue="Python.复习-1005" />
         <item itemvalue="Python.2023.11.24" />
         <item itemvalue="Python.2023.11.23" />
-        <item itemvalue="Python.2023.11.22" />
-        <item itemvalue="Python.2023.11.21" />
-        <item itemvalue="Python.2023.11.20" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +645,8 @@
       <workItem from="1700533700750" duration="9000" />
       <workItem from="1700618161875" duration="2281000" />
       <workItem from="1700703334840" duration="902000" />
-      <workItem from="1700790570804" duration="1909000" />
+      <workItem from="1700790570804" duration="2180000" />
+      <workItem from="1700876025102" duration="3580000" />
     </task>
     <task id="LOCAL-00096" summary="2023.9.20&#10;100.相同的树">
       <created>1695173111025</created>
@@ -825,31 +1064,31 @@
     <option name="LAST_COMMIT_MESSAGE" value="2023.11.23&#10;56.合并区间" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="175" key="CommitChangelistDialog2" timestamp="1700704035133">
+    <state x="572" y="175" key="CommitChangelistDialog2" timestamp="1700880805796">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1348" y="175" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1697700386033" />
-    <state x="572" y="175" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1700704035132" />
+    <state x="572" y="175" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1700880805796" />
     <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1700620449230">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1700620449230" />
-    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1700791488637">
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom" timestamp="1700880634567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1700791488637" />
-    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1700791488637">
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1700880634567" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center" timestamp="1700880634567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1700791488637" />
-    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1700791488637">
+    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1700880634567" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left" timestamp="1700880634566">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1700791488637" />
-    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1700791488637">
+    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1700880634566" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right" timestamp="1700880634567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1700791488637" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1700880634567" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1699081694641">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -988,7 +1227,9 @@
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_11_5.coverage" NAME="2023.11.5 Coverage Results" MODIFIED="1699167786051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_5_31.coverage" NAME="2023.5.31 Coverage Results" MODIFIED="1685497741418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_10_25.coverage" NAME="2023.10.25 Coverage Results" MODIFIED="1698220083558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode2023$2023_11_25.coverage" NAME="2023.11.25 Coverage Results" MODIFIED="1700880114503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_11_22.coverage" NAME="2023.11.22 Coverage Results" MODIFIED="1700619258188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode2023$_134.coverage" NAME="复习-134 Coverage Results" MODIFIED="1700877317128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_11_19_1.coverage" NAME="2023.11.19-1 Coverage Results" MODIFIED="1700363777683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_5_28.coverage" NAME="2023.5.28 Coverage Results" MODIFIED="1685238597771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_6_25.coverage" NAME="2023.6.25 Coverage Results" MODIFIED="1687656946548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
