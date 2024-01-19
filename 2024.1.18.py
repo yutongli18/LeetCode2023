@@ -1,3 +1,9 @@
+"""
+392.判断子序列
+双指针 or 动态规划
+"""
+
+
 class Solution(object):
     def isSubsequence(self, s, t):
         """
