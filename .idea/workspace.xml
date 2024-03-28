@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60c3b6ac-e9e0-4459-927e-a5ee20fe1f9e" name="Default Changelist" comment="2023.11.3">
-      <change afterPath="$PROJECT_DIR$/2024.3.24-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2024.3.24-3.js.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2024.3.24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024.3.25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024.3.26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024.3.27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024.3.28.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,51 +56,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.2024.3.24-3.js">
-    <configuration name="2024.3.21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeeCode2023" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2024.3.21.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2024.3.22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeeCode2023" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2024.3.22.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.2024.3.26">
     <configuration name="2024.3.24-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeeCode2023" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,13 +123,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2024.3.25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeeCode2023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2024.3.25.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2024.3.26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeeCode2023" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2024.3.26.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2024.3.26" />
+        <item itemvalue="Python.2024.3.25" />
         <item itemvalue="Python.2024.3.24-3.js" />
         <item itemvalue="Python.2024.3.24-2" />
         <item itemvalue="Python.2024.3.24" />
-        <item itemvalue="Python.2024.3.22" />
-        <item itemvalue="Python.2024.3.21" />
       </list>
     </recent_temporary>
   </component>
@@ -501,7 +502,11 @@
       <workItem from="1710897817871" duration="2628000" />
       <workItem from="1710983885885" duration="839000" />
       <workItem from="1711089287557" duration="757000" />
-      <workItem from="1711247559115" duration="9656000" />
+      <workItem from="1711247559115" duration="9980000" />
+      <workItem from="1711349693907" duration="898000" />
+      <workItem from="1711415520037" duration="847000" />
+      <workItem from="1711523335398" duration="2929000" />
+      <workItem from="1711609741528" duration="2529000" />
     </task>
     <task id="LOCAL-00096" summary="2023.9.20&#10;100.相同的树">
       <created>1695173111025</created>
@@ -919,31 +924,31 @@
     <option name="LAST_COMMIT_MESSAGE" value="2023.11.23&#10;56.合并区间" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="205" key="GridCell.Tab.0.bottom" timestamp="1711268144546">
+    <state width="1877" height="205" key="GridCell.Tab.0.bottom" timestamp="1711416369417">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1711090049768" />
-    <state width="1877" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1711268144546" />
-    <state width="1877" height="205" key="GridCell.Tab.0.center" timestamp="1711268144546">
+    <state width="1877" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1711416369417" />
+    <state width="1877" height="205" key="GridCell.Tab.0.center" timestamp="1711416369416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="205" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1711090049768" />
-    <state width="1877" height="205" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1711268144546" />
-    <state width="1877" height="205" key="GridCell.Tab.0.left" timestamp="1711268144546">
+    <state width="1877" height="205" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1711416369416" />
+    <state width="1877" height="205" key="GridCell.Tab.0.left" timestamp="1711416369416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="205" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1711090049768" />
-    <state width="1877" height="205" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1711268144546" />
-    <state width="1877" height="205" key="GridCell.Tab.0.right" timestamp="1711268144546">
+    <state width="1877" height="205" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1711416369416" />
+    <state width="1877" height="205" key="GridCell.Tab.0.right" timestamp="1711416369416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="205" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1711090049768" />
-    <state width="1877" height="205" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1711268144546" />
-    <state x="-1280" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1711247558936">
+    <state width="1877" height="205" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1711416369416" />
+    <state x="-1280" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1711609743551">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1280" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1711247558936" />
-    <state x="-1280" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1710724524229" />
+    <state x="-1280" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1711609743551" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1709517397139">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -1069,6 +1074,7 @@
     <SUITE FILE_PATH="coverage/LeetCode2023$2024_1_16.coverage" NAME="2024.1.16 Coverage Results" MODIFIED="1705370991841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2024_2_26.coverage" NAME="2024.2.26 Coverage Results" MODIFIED="1708912072172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_12_10_1.coverage" NAME="2023.12.10-1 Coverage Results" MODIFIED="1702175953318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode2023$2024_3_26.coverage" NAME="2024.3.26 Coverage Results" MODIFIED="1711416285490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_12_11.coverage" NAME="2023.12.11 Coverage Results" MODIFIED="1702259905733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_11_11.coverage" NAME="2023.11.11 Coverage Results" MODIFIED="1699670839762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2024_1_11.coverage" NAME="2024.1.11 Coverage Results" MODIFIED="1704936112380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -1187,6 +1193,7 @@
     <SUITE FILE_PATH="coverage/LeetCode2023$2024_1_25.coverage" NAME="2024.1.25 Coverage Results" MODIFIED="1706148443713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_12_12_2.coverage" NAME="2023.12.12-2 Coverage Results" MODIFIED="1702349842598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_7_25_offer5.coverage" NAME="2023.7.25-offer5 Coverage Results" MODIFIED="1690247194534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode2023$2024_3_25.coverage" NAME="2024.3.25 Coverage Results" MODIFIED="1711350518434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$_139.coverage" NAME="复习-139 Coverage Results" MODIFIED="1703907302066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_12_27.coverage" NAME="2023.12.27 Coverage Results" MODIFIED="1703641138159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_5_12.coverage" NAME="2023.5.12 Coverage Results" MODIFIED="1683854557302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
