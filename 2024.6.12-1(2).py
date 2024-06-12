@@ -6,16 +6,16 @@ class ListNode(object):
 
 
 class Solution(object):
-    def reverseList(self, head):
+    def swapPairs(self, head):
         """
-        206.反转链表
-        递归
+        24.两两交换链表中的节点
+        递归法
         :type head: ListNode
         :rtype: ListNode
         """
         if not head or not head.next:
             return head
-        new_head = self.reverseList(head.next)
-        head.next.next = head
-        head.next = None
-        return new_head
+        temp = head.next
+        head.next = self.swapPairs(temp.next)
+        temp.next = head
+        return temp

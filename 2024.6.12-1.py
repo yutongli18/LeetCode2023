@@ -9,6 +9,7 @@ class Solution(object):
     def swapPairs(self, head):
         """
         24.两两交换链表中的节点
+        迭代法
         :type head: ListNode
         :rtype: ListNode
         """
