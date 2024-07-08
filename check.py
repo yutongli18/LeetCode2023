@@ -395,5 +395,8 @@ if __name__ == '__main__':
     """nums = []
     nums.insert(0, 20)
     print(nums)"""
-    num = 13
-    print((num >> 2) << 2)
+    # num = 13
+    # print((num >> 2) << 2)
+    num1 = [1, 2, 3, 4]
+    num2 = [1, 2]
+    print(num1.extend(num2))
