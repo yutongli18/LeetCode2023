@@ -397,6 +397,8 @@ if __name__ == '__main__':
     print(nums)"""
     # num = 13
     # print((num >> 2) << 2)
-    num1 = [1, 2, 3, 4]
-    num2 = [1, 2]
-    print(num1.extend(num2))
+    # num1 = [1, 2, 3, 4]
+    # num2 = [1, 2]
+    # print(num1.extend(num2))
+    nums_dict = {1: [], 2: []}
+    print(nums_dict.get(1))
