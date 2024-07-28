@@ -400,5 +400,18 @@ if __name__ == '__main__':
     # num1 = [1, 2, 3, 4]
     # num2 = [1, 2]
     # print(num1.extend(num2))
-    nums_dict = {1: [], 2: []}
-    print(nums_dict.get(1))
+    # nums_dict = {1: [], 2: []}
+    # print(nums_dict.get(1))
+    # a = "python"
+    # b = a.capitalize()
+    # print(a)
+    # print(b)
+    # s = [(i, j) for i in range(1, 2) for j in range(2)]
+    # print(s)
+    def fun(temp):
+        for tt in temp:
+            print(tt)
+    fun((1, 2, 3))
+    fun(1)
+    fun('123')
+    fun([1, 2, 3])
