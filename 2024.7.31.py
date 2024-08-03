@@ -2,18 +2,29 @@ class Solution(object):
     def __init__(self):
         self.min_num = 5001
 
+    # def binary_min(self, nums, start, end):
+    #     if end < start:
+    #         return self.min_num
+    #     mid = (start + end) // 2
+    #     self.min_num = min(self.min_num, nums[mid])
+    #     if nums[mid] < nums[start]:
+    #         return self.binary_min(nums, start, mid - 1)
+    #     else:
+    #         if nums[mid] > nums[end]:
+    #             return self.binary_min(nums, mid + 1, end)
+    #         else:
+    #             return self.binary_min(nums, start, mid - 1)
     def binary_min(self, nums, start, end):
         if end < start:
             return self.min_num
         mid = (start + end) // 2
         self.min_num = min(self.min_num, nums[mid])
-        if nums[mid] < nums[start]:
-            return self.binary_min(nums, start, mid - 1)
+        if nums[mid] > nums[len(nums) - 1]:
+            # 在前半段升序数组中
+            return self.binary_min(nums, mid + 1, end)
         else:
-            if nums[mid] > nums[end]:
-                return self.binary_min(nums, mid + 1, end)
-            else:
-                return self.binary_min(nums, start, mid - 1)
+            # 在后半段升序数组中
+            return self.binary_min(nums, start, mid - 1)
 
     def findMin(self, nums):
         """
