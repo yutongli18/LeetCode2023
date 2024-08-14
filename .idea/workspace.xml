@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60c3b6ac-e9e0-4459-927e-a5ee20fe1f9e" name="Default Changelist" comment="2023.11.3">
-      <change afterPath="$PROJECT_DIR$/2024.8.12-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2024.8.13-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2024.8.13-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/代码随想录刷题笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/代码随想录刷题笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024.8.13-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2024.8.13-2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -697,7 +694,8 @@
       <workItem from="1723426355733" duration="7743000" />
       <workItem from="1723446886278" duration="1465000" />
       <workItem from="1723459101756" duration="1642000" />
-      <workItem from="1723540066087" duration="1492000" />
+      <workItem from="1723540066087" duration="2289000" />
+      <workItem from="1723598095421" duration="921000" />
     </task>
     <task id="LOCAL-00096" summary="2023.9.20&#10;100.相同的树">
       <created>1695173111025</created>
@@ -1124,26 +1122,26 @@
     </state>
     <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1721202679126" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1716430990566" />
-    <state width="1877" height="208" key="GridCell.Tab.0.bottom" timestamp="1723541775850">
+    <state width="1877" height="208" key="GridCell.Tab.0.bottom" timestamp="1723542375694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1721873377700" />
-    <state width="1877" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1723541775850" />
-    <state width="1877" height="208" key="GridCell.Tab.0.center" timestamp="1723541775850">
+    <state width="1877" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1723542375694" />
+    <state width="1877" height="208" key="GridCell.Tab.0.center" timestamp="1723542375694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="208" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1721873377700" />
-    <state width="1877" height="208" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1723541775850" />
-    <state width="1877" height="208" key="GridCell.Tab.0.left" timestamp="1723541775850">
+    <state width="1877" height="208" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1723542375694" />
+    <state width="1877" height="208" key="GridCell.Tab.0.left" timestamp="1723542375694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="208" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1721873377700" />
-    <state width="1877" height="208" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1723541775850" />
-    <state width="1877" height="208" key="GridCell.Tab.0.right" timestamp="1723541775850">
+    <state width="1877" height="208" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1723542375694" />
+    <state width="1877" height="208" key="GridCell.Tab.0.right" timestamp="1723542375694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="208" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1721873377700" />
-    <state width="1877" height="208" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1723541775850" />
+    <state width="1877" height="208" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1723542375694" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1722655999346">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -1165,11 +1163,11 @@
     </state>
     <state x="-1459" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1721202643705" />
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1723540081568" />
-    <state x="-1280" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1723540068131">
+    <state x="-1280" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1723598319778">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1280" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1721870823696" />
-    <state x="-1280" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1723540068131" />
+    <state x="-1280" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1723598319778" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1722684844043" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1721977865650">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -1528,7 +1526,7 @@
     <SUITE FILE_PATH="coverage/LeetCode2023$2024_6_30_3.coverage" NAME="2024.6.30-3 Coverage Results" MODIFIED="1719734528316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2024_3_6.coverage" NAME="2024.3.6 Coverage Results" MODIFIED="1709690286932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2024_3_10_2.coverage" NAME="2024.3.10-2 Coverage Results" MODIFIED="1710039200454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode2023$2024_8_13_2.coverage" NAME="2024.8.13-2 Coverage Results" MODIFIED="1723541775844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode2023$2024_8_13_2.coverage" NAME="2024.8.13-2 Coverage Results" MODIFIED="1723600378417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2023_6_17.coverage" NAME="2023.6.17 Coverage Results" MODIFIED="1686964052478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2024_5_12_3.coverage" NAME="2024.5.12-3 Coverage Results" MODIFIED="1715498206759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode2023$2024_8_8_1.coverage" NAME="2024.8.8-1 Coverage Results" MODIFIED="1723085967948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
